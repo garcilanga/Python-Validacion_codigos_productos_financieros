@@ -17,6 +17,6 @@
   - 6 - **BBGID**: The Bloomberg Global ID.
   - 7 - **Reuters RIC**: Reuters instrument code.
   - 8 – **FIGI**: Financial Instrument Global Identifier.
-  - 9 - Other code by members of the Association of National Numbering Agencies
-  - 99 - Code attributed by the undertaking
+  - 9 - Other code by members of the Association of National Numbering Agencies.
+  - 99 - Code attributed by the undertaking.
 
