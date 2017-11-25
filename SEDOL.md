@@ -32,7 +32,8 @@ python sedol.py
 - Dígito de control de SEDOL para J5ND0MN                         : 4
 ```
 
-## Referencias y más información:
+## Referencias y más información
+
 - [SEDOL (Wikipedia)](https://en.wikipedia.org/wiki/SEDOL)
 - [SEDOLs (www.rosettacode.org)](https://www.rosettacode.org/wiki/SEDOLs)
 - [Library sedol.py by arthurdejong](https://github.com/arthurdejong/python-stdnum/blob/master/stdnum/gb/sedol.py)
