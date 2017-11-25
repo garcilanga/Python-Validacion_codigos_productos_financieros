@@ -25,3 +25,8 @@
     - Los siguientes **nueve caracteres** contienen el código nacional de identificación del valor en cada país. La estructura y tamaño de este código quedan al criterio de la agencia de codificación del país.
     - El **último carácter** es un dígito de control.
     
+## Referencias y más información:
+- [Código ISIN (wikipedia)](https://es.wikipedia.org/wiki/C%C3%B3digo_ISIN)
+- [Library isin.py (github)](https://github.com/arthurdejong/python-stdnum/blob/master/stdnum/isin.py)
+- [Consulta de códigos ISIN (CNMV)](https://www.cnmv.es/portal/ancv/ConsultaISIN.aspx)
+
