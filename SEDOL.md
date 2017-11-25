@@ -4,7 +4,7 @@
 
 - **SEDOL** es el acrónimo de **Stock Exchange Daily Official List**.
 - Los códigos SEDOL son el Número Nacional de Identificación de Valores emitidos en el Reino Unido e Irlanda.
-- Ejemplos de códigos SEDOL:
+- Ejemplo de códigos SEDOL:
     - B03MLX2
 
 ## ¿Qué formato tiene un SEDOL?
