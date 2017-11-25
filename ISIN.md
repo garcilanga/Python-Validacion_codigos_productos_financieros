@@ -15,7 +15,7 @@
     - Los primeros **dos caracteres** corresponden al código del país de la agencia de codificación que asigna el código. La lista de valores posibles está formada por:
         - Códigos de país definidos por la norma ISO-3166 en formato alfanumérico de dos letras:
             - 'AD', 'AE', 'AF', 'AG', 'AI', 'AL', ..., 'ES', ...
-        - Códigos de país especiales para valores internacionales.
+        - Códigos de país especiales para valores internacionales:
             - XS, EU
         - Códigos que pueden asignar algunas agencias:
             - XA (CUSIP Global Services)
