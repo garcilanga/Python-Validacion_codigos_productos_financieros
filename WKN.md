@@ -25,6 +25,6 @@ python wkn.py
 - Devuelve 82Y57Y si es un código WKN válido o nada si no lo es: 82Y57Y
 ```
 
-## Referencias y más información:
+## Referencias y más información
 
 - [Library wkn.py by arthurdejong](https://github.com/arthurdejong/python-stdnum/blob/master/stdnum/de/wkn.py)
