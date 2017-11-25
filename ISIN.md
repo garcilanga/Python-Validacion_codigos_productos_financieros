@@ -27,11 +27,11 @@
 
 ## Script de ejemplo
 
-- En script python **isin.py** contiene la clase ISIN, para manejar códigos ISIN.
+- El script Python **isin.py** contiene la clase ISIN para manejar códigos ISIN. Puede importarse en cualquier script Python o ejecutarse directamente para ver algunos ejemplos de prueba, por ejemplo, desde línea de comando:
 ```
 python isin.py
 ```
-    Resultado:
+- Resultado:
 ```
 - ISIN generado automáticamente                                       : NG0649661241
 - El código NG0649661241 ¿es un ISIN válido?                          : True
