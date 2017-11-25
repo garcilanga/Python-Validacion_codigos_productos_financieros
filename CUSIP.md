@@ -32,7 +32,7 @@ python cusip.py
 - Dígito de control de CUSIP para 6CQ@HDA                           : None
 - Dígito de control de CUSIP para 6CQ@HDAHQ                         : 5
 ```
-## Referencias y más información:
+## Referencias y más información
 
 - [CUSIP (wikipedia)](https://en.wikipedia.org/wiki/CUSIP)
 - [CUSIP (rosettacode)](https://www.rosettacode.org/wiki/CUSIP)
