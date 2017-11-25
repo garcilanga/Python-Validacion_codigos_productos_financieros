@@ -16,4 +16,4 @@
 ## Referencias y más información:
 - [SEDOL (Wikipedia)](https://en.wikipedia.org/wiki/SEDOL)
 - [SEDOLs (www.rosettacode.org)](https://www.rosettacode.org/wiki/SEDOLs)
-- [sedol.py by arthurdejong](https://github.com/arthurdejong/python-stdnum/blob/master/stdnum/gb/sedol.py)
+- [Library sedol.py by arthurdejong](https://github.com/arthurdejong/python-stdnum/blob/master/stdnum/gb/sedol.py)
