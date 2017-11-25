@@ -8,7 +8,7 @@
 
 ## Códigos de productos financieros
 
-- En esta especificación se establece que los códigos de productos financieros pueden expresarse de las siguientes formas:
+- El el documento de formato de comunicación de registros MIFID se establece que los códigos de productos financieros pueden expresarse de una de las siguientes formas:
   - 1 - ISO 6166 for **ISIN** code
   - 2 - **CUSIP**: The Committee on Uniform Securities Identification Procedures number assigned by the CUSIP Service Bureau for U.S. and Canadian companies.
   - 3 - **SEDOL**: Stock Exchange Daily Official List for the London Stock Exchange.
