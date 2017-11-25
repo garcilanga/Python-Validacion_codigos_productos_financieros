@@ -3,7 +3,7 @@
 ## ¿Qué es un código CUSIP?
 
 - **CUSIP** es el acrónimo de **Committee on Uniform Securities Identification Procedures**.
-- Los códigos CUSIP son el número nacional de identificación de Valores emitidos en América del Norte (Estados Unidos y Canadá).
+- Los códigos CUSIP son el número de identificación de Valores emitidos en América del Norte (Estados Unidos y Canadá).
 - Ejemplos de códigos CUSIP:
     - 780259206
 
