@@ -27,7 +27,7 @@
 
 ## Script de ejemplo
 
-- El script Python **isin.py** contiene la clase ISIN para manejar códigos ISIN. Puede importarse en cualquier script Python o ejecutarse directamente para ver algunos ejemplos de prueba, por ejemplo, desde línea de comando:
+- El script Python **isin.py** contiene la clase ISIN para manejar códigos ISIN. Puede importarse en cualquier script Python o ejecutarse directamente para ver algunos ejemplos de prueba. Por ejemplo, desde línea de comando ejecutar:
 ```
 python isin.py
 ```
