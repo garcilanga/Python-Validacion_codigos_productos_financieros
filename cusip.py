@@ -18,7 +18,7 @@ import re
 CTT_CUSIP_CHARACTERS = u'0123456789ABCDEFGH JKLMN PQRSTUVWXYZ*@#'
 CTT_CUSIP_CHARACTERS = re.sub('\s', '', CTT_CUSIP_CHARACTERS)
 
-class CUSIP():
+class CUSIP:
 
     ####################################################################################################
     ### Calcula el dígito de control de un código CUSIP
