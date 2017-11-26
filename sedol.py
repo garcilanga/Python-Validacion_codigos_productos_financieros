@@ -18,7 +18,7 @@ import re
 CTT_SEDOL_CHARACTERS = '0123456789 BCD FGH JKLMN PQRST VWXYZ'
 CTT_SEDOL_CHARACTERS = re.sub('\s', '', CTT_SEDOL_CHARACTERS)
 
-class SEDOL():
+class SEDOL:
 
     ####################################################################################################
     ### Calcula el dígito de control de un código SEDOL
