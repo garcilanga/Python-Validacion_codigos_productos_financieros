@@ -16,7 +16,7 @@ import re
 CTT_WKN_CHARACTERS = u'0123456789ABCDEFGH JKLMN PQRSTUVWXYZ'
 CTT_WKN_CHARACTERS = re.sub('\s', '', CTT_WKN_CHARACTERS)
 
-class WKN():
+class WKN:
 
     ####################################################################################################
     ### Determina si un WKN es correcto. Retorna True o False
