@@ -27,7 +27,7 @@ CTT_ISIN_CHARACTERS = '0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ'
 CTT_COUNTRIES_LST = map(lambda x: x.alpha_2, list(pycountry.countries)) + [ 'XS', 'EU', 'XA', 'XB', 'XC', 'XD']
 CTT_COUNTRIES_LST.sort()
 
-class ISIN():
+class ISIN:
 
     ####################################################################################################
     ### Calcula el dígito de control de un código ISIN
