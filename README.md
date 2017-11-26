@@ -14,7 +14,7 @@ Uno de los datos comunicados corresponde al código de producto financiero, que 
 - 2 - [**CUSIP**](CUSIP.md): The Committee on Uniform Securities Identification Procedures number assigned by the CUSIP Service Bureau for U.S. and Canadian companies.
 - 3 - [**SEDOL**](SEDOL.md): Stock Exchange Daily Official List for the London Stock Exchange.
 - 4 – [**WKN**](WKN.md): Wertpapier Kenn-Nummer, the alphanumeric German identification number.
-- 5 - **Bloomberg Ticker** (Bloomberg letters code that identify a company's securities.
+- 5 - **Bloomberg Ticker**: Bloomberg letters code that identify a company's securities.
 - 6 - **BBGID**: The Bloomberg Global ID.
 - 7 - **Reuters RIC**: Reuters instrument code.
 - 8 – **FIGI**: Financial Instrument Global Identifier.
