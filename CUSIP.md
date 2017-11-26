@@ -34,6 +34,7 @@ python cusip.py
 ```
 ## Referencias y más información
 
+- [¿Qué es un número CUSIP?](http://queaprendemoshoy.com/%C2%BFque-es-un-numero-cusip/)
 - [CUSIP (wikipedia)](https://en.wikipedia.org/wiki/CUSIP)
 - [CUSIP (rosettacode)](https://www.rosettacode.org/wiki/CUSIP)
 - [Library cusip.py by arthurdejong](https://github.com/arthurdejong/python-stdnum/blob/master/stdnum/cusip.py)
