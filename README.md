@@ -2,7 +2,7 @@
 
 ## MIFID II
 
-- La Directiva MiFID II introduce normas específicas sobre conflicto de intereses sobre la regulación de productos de inversión.
+- La Directiva MiFID II introduce normas específicas sobre conflicto de intereses en la regulación de productos de inversión.
 
 - El documento [EUROPEAN WORKING GROUP MIFID TEMPLATE V1.0 - EMT V1.0](http://www.efama.org/Documents/20170803-EMTV1.0.xlsx) establece el formato de comunicación de registros MIFID.
 
